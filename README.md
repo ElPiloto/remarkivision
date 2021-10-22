@@ -1,5 +1,5 @@
 
-# remarkavision
+# remarkivision
 
 smarter OCR for remarkable templates
 
