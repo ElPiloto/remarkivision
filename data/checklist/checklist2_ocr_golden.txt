@@ -1,0 +1,8 @@
+My To-Do List
+[x] item I is an X
+[✓] item 2 is a check mark 
+[*] item #3 is filled in 
+[o] item 4 is circled
+[*] item 4 is an asterisk 
+[ ] item 5 is unchecked
+[ ] item 6 is unchecked too 

@@ -1,0 +1,5 @@
+My To-Do
+[x] List item 1 is an X
+[✓] item 2 is a check mark
+[*] item #3 is filled in
+[*] item 4 is circled 
